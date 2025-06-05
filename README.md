@@ -6,12 +6,12 @@ A Java-based desktop application for managing warehouse inventory, tracking prod
 
 ## 🚀 Features
 
-- ✅ Add, update, or remove products from stock
-- 📆 Track product expiration dates
-- 🧾 Custom-designed GUI using Java Swing
-- 🔐 Includes sign-in/sign-up screen (basic, not security-enforced)
-- 📊 Generate stock and sales reports
-- 🧍 Role-limited interface: admin and employee access (UI-only separation)
+* ✅ Add, update, or remove products from stock
+* 📆 Track product expiration dates
+* 🧾 Custom-designed GUI using Java Swing
+* 🔐 Includes sign-in/sign-up screen (basic, not security-enforced)
+* 📊 Generate stock and sales reports
+* 🧍 Role-limited interface: admin and employee access (UI-only separation)
 
 ---
 
@@ -23,9 +23,11 @@ While the application includes a sign-in and sign-up interface, it **does not en
 
 ## 🛠️ Technologies Used
 
-- Java 11
-- Swing (GUI)
-- IntelliJ IDEA (project environment)
+* Java 11
+* Swing (GUI)
+* CSV for data storage  <-- This line was added here
+* IntelliJ IDEA (project environment)
+
 
 ---
 
@@ -40,6 +42,7 @@ While the application includes a sign-in and sign-up interface, it **does not en
 ## 📸 Screenshots
 Coming soon — GUI previews will be added.
 
-## 👤 Author
-[abood190-c](https://github.com/abood190-c)
-[MohamadSobuh](https://github.com/MohamadSobuh)
+## 👤 Authors
+* [abood190-c](https://github.com/abood190-c)
+* [MohamadSobuh](https://github.com/MohamadSobuh)
+
