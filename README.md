@@ -41,5 +41,5 @@ While the application includes a sign-in and sign-up interface, it **does not en
 Coming soon — GUI previews will be added.
 
 ## 👤 Author
-abood190-c
-
+[abood190-c](https://github.com/abood190-c)
+[MohamadSobuh](https://github.com/MohamadSobuh)
